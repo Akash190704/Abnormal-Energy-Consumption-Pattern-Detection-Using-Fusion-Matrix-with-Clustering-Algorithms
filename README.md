@@ -1,0 +1,1 @@
+# Abnormal-Energy-Consumption-Pattern-Detection-Using-Fusion-Matrix-with-Clustering-Algorithms
