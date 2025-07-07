@@ -1,0 +1,13 @@
+Abnormal Energy Consumption Pattern Detection for Smart Grids Using Fusion Matrix with Improved Clustering Algorithms 
+
+ABSTRACT The rapid development of smart grids has increased the demand for effective methods to detect abnormal electricity consumption 
+patterns, which are critical for ensuring grid reliability, reducing energy waste, and preventing risks such as fraud and equipment failures. 
+This study proposes a hybrid framework combining Fusion Matrix Completion and advanced clustering techniques to address the challenges 
+of incomplete, noisy, and unbalanced energy consumption data. Fusion Matrix Completion will be used to reconstruct incomplete datasets, 
+providing a solid foundation for anomaly detection. The framework integrates clustering methods such as DBSCAN for density-based outlier
+detection, Hierarchical Clustering to uncover hidden structures in the data, and Gaussian Mixture Models (GMM) for probabilistic
+modeling of overlapping clusters. By leveraging the strengths of these techniques, the proposed approach aims to effectively detect both
+subtle and extreme anomalies in real-world smart grid datasets. This research seeks to develop a scalable and efficient solution for energy 
+providers to monitor consumption patterns, enhance grid management, and ensure energy security in modern smart grid systems.
+
+DBSCAN with Gaussian Mixture Models for anomaly detection
